@@ -1,35 +1,59 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useMemo } from 'react';
+import { MapComponent } from './components/MapComponent';
+import { InfoPanel } from './components/InfoPanel';
+import { useMigracionData } from './hooks/useMigracionData';
+import type { GeoJSONData, Prediccion } from './utils/dataUtils';
+import { buscarPrediccionComuna } from './utils/dataUtils';
+
+// Importar datos
+import comunasGeoJSON from './data/comunas.json';
+import prediccionesData from './data/predicciones.json';
+
+// Estilos
+import 'leaflet/dist/leaflet.css';
+import './App.css';
 
 function App() {
-  const [count, setCount] = useState(0)
+  const geoJSON = comunasGeoJSON as GeoJSONData;
+  const predicciones = prediccionesData as Prediccion[];
+
+  const {
+    modeloSeleccionado,
+    setModeloSeleccionado,
+    comunaSeleccionada,
+    setComunaSeleccionada,
+    comunaHover,
+    setComunaHover,
+  } = useMigracionData({ predicciones });
+
+  // Obtener predicción actual basada en comuna seleccionada o hover
+  const prediccionActual = useMemo(() => {
+    const comunaMostrar = comunaHover || comunaSeleccionada;
+    if (!comunaMostrar) return null;
+    return buscarPrediccionComuna(predicciones, comunaMostrar, modeloSeleccionado);
+  }, [predicciones, comunaHover, comunaSeleccionada, modeloSeleccionado]);
 
   return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
+    <div className="app-container">
+      <InfoPanel
+        modeloSeleccionado={modeloSeleccionado}
+        onModeloChange={setModeloSeleccionado}
+        comunaSeleccionada={comunaSeleccionada}
+        comunaHover={comunaHover}
+        prediccionActual={prediccionActual}
+      />
+      <main className="main-content">
+        <MapComponent
+          geoJSON={geoJSON}
+          predicciones={predicciones}
+          modeloSeleccionado={modeloSeleccionado}
+          comunaSeleccionada={comunaSeleccionada}
+          onComunaClick={setComunaSeleccionada}
+          onComunaHover={setComunaHover}
+        />
+      </main>
+    </div>
+  );
 }
 
-export default App
+export default App;
