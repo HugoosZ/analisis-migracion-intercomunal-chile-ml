@@ -1,0 +1,53 @@
+# =========================
+# Python / Jupyter
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+env/
+
+.ipynb_checkpoints/
+*.log
+
+# =========================
+# Data / Outputs
+# =========================
+data/raw/
+data/processed/
+data/outputs/
+
+# Si algún output DEBE versionarse, sácalo de aquí explícitamente
+
+# =========================
+# Frontend (Node / React / Vite / Next)
+# =========================
+node_modules/
+dist/
+build/
+.next/
+out/
+coverage/
+
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+
+# =========================
+# Misc
+# =========================
+*.tmp
+*.swp
