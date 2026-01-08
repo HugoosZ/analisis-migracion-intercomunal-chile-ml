@@ -69,7 +69,7 @@ analisis-migracion-intercomunal-chile-ml/
 - **TypeScript 5.9** - Tipado estático
 - **Vite** - Build tool y dev server
 - **Leaflet & React-Leaflet** - Mapas interactivos
-- **CSS Modules** - Estilos componetizados
+- **CSS Modules** - Estilos componentizados
 
 ## 📦 Instalación
 
