@@ -69,8 +69,8 @@ El proyecto utiliza datos de migración intercomunal en Chile.  Los datos se enc
 
 
 ## Participantes de este proyecto:
-- Lucas Abello
-- Samuel Angulo
-- Tomás León
-- Natalia Ortega
-- Hugo Rojas
+- [Lucas Abello](https://github.com/lexO-dat)
+- [Samuel Angulo](https://github.com/polaarts)
+- [Tomás León](https://github.com/tleonn)
+- [Natalia Ortega](https://github.com/natt001og)
+- [Hugo Rojas](https://github.com/HugoosZ)
