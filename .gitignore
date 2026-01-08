@@ -20,7 +20,6 @@ data/raw/
 data/processed/
 data/outputs/
 
-# Si algún output DEBE versionarse, sácalo de aquí explícitamente
 
 # =========================
 # Frontend (Node / React / Vite / Next)
