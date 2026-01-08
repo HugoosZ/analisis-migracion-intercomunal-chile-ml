@@ -1,0 +1,1406 @@
+[
+  {
+    "comuna": "Alhué",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -2.1937144215535347,
+    "emigracion_pred": -24524.418891758825,
+    "inmigracion_pred_z": -2.342507068760971,
+    "inmigracion_pred": -21315.153239521343
+  },
+  {
+    "comuna": "Buin",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.42929596329877767,
+    "emigracion_pred": 12419.709531299295,
+    "inmigracion_pred_z": -0.08036051494149418,
+    "inmigracion_pred": 19942.837922743318
+  },
+  {
+    "comuna": "Calera de Tango",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.8672112869176778,
+    "emigracion_pred": 3250.456127430305,
+    "inmigracion_pred_z": -0.9599743760960859,
+    "inmigracion_pred": 3900.0661366065433
+  },
+  {
+    "comuna": "Cerrillos",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.5539972546025891,
+    "emigracion_pred": 9808.661965516005,
+    "inmigracion_pred_z": -0.6638492463631632,
+    "inmigracion_pred": 9300.922223855601
+  },
+  {
+    "comuna": "Cerro Navia",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.3029725845367581,
+    "emigracion_pred": 15064.72103975679,
+    "inmigracion_pred_z": -0.6055614320522144,
+    "inmigracion_pred": 10364.000176806283
+  },
+  {
+    "comuna": "Colina",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.4965714209538002,
+    "emigracion_pred": 11011.06798388226,
+    "inmigracion_pred_z": -0.3853248499743454,
+    "inmigracion_pred": 14380.768649049667
+  },
+  {
+    "comuna": "Conchalí",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.30731508097475363,
+    "emigracion_pred": 14973.796041023403,
+    "inmigracion_pred_z": -0.6664991349366113,
+    "inmigracion_pred": 9252.592428794484
+  },
+  {
+    "comuna": "Curacaví",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -1.6628098824428212,
+    "emigracion_pred": -13408.118571090381,
+    "inmigracion_pred_z": -1.7346557475592617,
+    "inmigracion_pred": -10228.902264416593
+  },
+  {
+    "comuna": "El Bosque",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.12743435375793175,
+    "emigracion_pred": 18740.21361392993,
+    "inmigracion_pred_z": -0.3735143521043164,
+    "inmigracion_pred": 14596.173533371095
+  },
+  {
+    "comuna": "El Monte",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -1.4915631646965983,
+    "emigracion_pred": -9822.483483877877,
+    "inmigracion_pred_z": -1.6545697000533328,
+    "inmigracion_pred": -8768.258861520604
+  },
+  {
+    "comuna": "Estación Central",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": 0.22505002013323522,
+    "emigracion_pred": 26120.678217002154,
+    "inmigracion_pred_z": 0.048651704349890974,
+    "inmigracion_pred": 22295.81765978156
+  },
+  {
+    "comuna": "Huechuraba",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.6286909464661953,
+    "emigracion_pred": 8244.694341117594,
+    "inmigracion_pred_z": -0.5482217876828346,
+    "inmigracion_pred": 11409.785003012577
+  },
+  {
+    "comuna": "Independencia",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.08657746766539448,
+    "emigracion_pred": 19595.692108675426,
+    "inmigracion_pred_z": -0.22591809525652273,
+    "inmigracion_pred": 17288.09685298444
+  },
+  {
+    "comuna": "Isla de Maipo",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -1.4358780785160095,
+    "emigracion_pred": -8656.525960887775,
+    "inmigracion_pred_z": -1.4528562671443863,
+    "inmigracion_pred": -5089.323463539524
+  },
+  {
+    "comuna": "La Cisterna",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.2724143486782548,
+    "emigracion_pred": 15704.562107309055,
+    "inmigracion_pred_z": -0.3856387202298727,
+    "inmigracion_pred": 14375.04414980943
+  },
+  {
+    "comuna": "La Florida",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": 0.7775175096395645,
+    "emigracion_pred": 37688.47257235874,
+    "inmigracion_pred_z": 0.742915984243936,
+    "inmigracion_pred": 34958.10493545839
+  },
+  {
+    "comuna": "La Granja",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.3790349725485108,
+    "emigracion_pred": 13472.09508545217,
+    "inmigracion_pred_z": -0.4463546584239159,
+    "inmigracion_pred": 13267.681040558664
+  },
+  {
+    "comuna": "La Pintana",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.27921041391739476,
+    "emigracion_pred": 15562.263263295252,
+    "inmigracion_pred_z": -0.3194351220994726,
+    "inmigracion_pred": 15582.493535421669
+  },
+  {
+    "comuna": "La Reina",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.5478828745849316,
+    "emigracion_pred": 9936.687400493121,
+    "inmigracion_pred_z": -0.6654139471679804,
+    "inmigracion_pred": 9272.384544956001
+  },
+  {
+    "comuna": "Lampa",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.4026947035197316,
+    "emigracion_pred": 12976.697785924725,
+    "inmigracion_pred_z": -0.3093156490688259,
+    "inmigracion_pred": 15767.056789363047
+  },
+  {
+    "comuna": "Las Condes",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": 0.644578372025137,
+    "emigracion_pred": 34904.93755009653,
+    "inmigracion_pred_z": 0.5288614599483309,
+    "inmigracion_pred": 31054.087462885916
+  },
+  {
+    "comuna": "Lo Barnechea",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.43390744958719224,
+    "emigracion_pred": 12323.15231106432,
+    "inmigracion_pred_z": -0.40771146737547787,
+    "inmigracion_pred": 13972.471997654802
+  },
+  {
+    "comuna": "Lo Espejo",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.481780451237572,
+    "emigracion_pred": 11320.767467098049,
+    "inmigracion_pred_z": -0.7942949642836513,
+    "inmigracion_pred": 6921.797729011641
+  },
+  {
+    "comuna": "Lo Prado",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.5588436279675822,
+    "emigracion_pred": 9707.186581859287,
+    "inmigracion_pred_z": -0.7564697821966047,
+    "inmigracion_pred": 7611.669490690156
+  },
+  {
+    "comuna": "Macul",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.06344804429482903,
+    "emigracion_pred": 20079.985606828162,
+    "inmigracion_pred_z": -0.09678624934212764,
+    "inmigracion_pred": 19643.258391262123
+  },
+  {
+    "comuna": "Maipú",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": 0.8912317779425376,
+    "emigracion_pred": 40069.469275303316,
+    "inmigracion_pred_z": 0.7081102907617461,
+    "inmigracion_pred": 34323.303891441115
+  },
+  {
+    "comuna": "María Pinto",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -1.9319038521191476,
+    "emigracion_pred": -19042.520165044523,
+    "inmigracion_pred_z": -2.101377487698374,
+    "inmigracion_pred": -16917.329363944482
+  },
+  {
+    "comuna": "Melipilla",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.7012471414066094,
+    "emigracion_pred": 6725.482517399487,
+    "inmigracion_pred_z": -0.7170825265227597,
+    "inmigracion_pred": 8330.031014948427
+  },
+  {
+    "comuna": "Padre Hurtado",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.7194024043173588,
+    "emigracion_pred": 6345.340062308334,
+    "inmigracion_pred_z": -0.7046577478678432,
+    "inmigracion_pred": 8556.639413538745
+  },
+  {
+    "comuna": "Paine",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -1.0640615978235486,
+    "emigracion_pred": -871.2776552795149,
+    "inmigracion_pred_z": -0.9730917384689404,
+    "inmigracion_pred": 3660.8261015444114
+  },
+  {
+    "comuna": "Pedro Aguirre Cerda",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.4159746480271403,
+    "emigracion_pred": 12698.636777756585,
+    "inmigracion_pred_z": -0.38309367184546955,
+    "inmigracion_pred": 14421.461824903889
+  },
+  {
+    "comuna": "Peñaflor",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.7329050165241046,
+    "emigracion_pred": 6062.616745127563,
+    "inmigracion_pred_z": -0.765366888868982,
+    "inmigracion_pred": 7449.4002743836845
+  },
+  {
+    "comuna": "Peñalolén",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": 0.01575866208507257,
+    "emigracion_pred": 21738.448608491024,
+    "inmigracion_pred_z": -0.10826124814874045,
+    "inmigracion_pred": 19433.97248158007
+  },
+  {
+    "comuna": "Pirque",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -1.1152356067957574,
+    "emigracion_pred": -1942.7803651650393,
+    "inmigracion_pred_z": -0.9255583738888892,
+    "inmigracion_pred": 4527.759825376415
+  },
+  {
+    "comuna": "Providencia",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": 0.38807996631233593,
+    "emigracion_pred": 29534.26711949102,
+    "inmigracion_pred_z": 0.4253960970283463,
+    "inmigracion_pred": 29167.042159943143
+  },
+  {
+    "comuna": "Pudahuel",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": 0.18840686352937555,
+    "emigracion_pred": 25353.428544983726,
+    "inmigracion_pred_z": 0.05302595956679205,
+    "inmigracion_pred": 22375.597187228923
+  },
+  {
+    "comuna": "Puente Alto",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": 0.9629763073070854,
+    "emigracion_pred": 41571.686107197864,
+    "inmigracion_pred_z": 0.9337474333673349,
+    "inmigracion_pred": 38438.570083979284
+  },
+  {
+    "comuna": "Quilicura",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.04878553534478385,
+    "emigracion_pred": 20386.995325027616,
+    "inmigracion_pred_z": -0.05415926389136419,
+    "inmigracion_pred": 20420.707485367955
+  },
+  {
+    "comuna": "Quinta Normal",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.12782524844493803,
+    "emigracion_pred": 18732.02889819592,
+    "inmigracion_pred_z": -0.22027703148477273,
+    "inmigracion_pred": 17390.98097375357
+  },
+  {
+    "comuna": "Recoleta",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.07621928571941589,
+    "emigracion_pred": 19812.57603564372,
+    "inmigracion_pred_z": -0.23217165169516746,
+    "inmigracion_pred": 17174.041830403035
+  },
+  {
+    "comuna": "Renca",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.43794033204101446,
+    "emigracion_pred": 12238.710138861883,
+    "inmigracion_pred_z": -0.4145795956730004,
+    "inmigracion_pred": 13847.20815207325
+  },
+  {
+    "comuna": "San Bernardo",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": 0.27550672390002834,
+    "emigracion_pred": 27177.161691794427,
+    "inmigracion_pred_z": 0.2086812752438423,
+    "inmigracion_pred": 25214.505050081625
+  },
+  {
+    "comuna": "San Joaquín",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.45232394440511176,
+    "emigracion_pred": 11937.54007351791,
+    "inmigracion_pred_z": -0.5773366839779686,
+    "inmigracion_pred": 10878.775138949302
+  },
+  {
+    "comuna": "San José de Maipo",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -1.7886430039008818,
+    "emigracion_pred": -16042.864867963253,
+    "inmigracion_pred_z": -1.872543685831381,
+    "inmigracion_pred": -12743.761139942828
+  },
+  {
+    "comuna": "San Miguel",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": 0.15083200665639193,
+    "emigracion_pred": 24566.670544749126,
+    "inmigracion_pred_z": 0.07944907487557169,
+    "inmigracion_pred": 22857.513204583527
+  },
+  {
+    "comuna": "San Pedro",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -2.1896629319095022,
+    "emigracion_pred": -24439.58711445931,
+    "inmigracion_pred_z": -2.2555516238215185,
+    "inmigracion_pred": -19729.222844001524
+  },
+  {
+    "comuna": "San Ramón",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.5306179759642926,
+    "emigracion_pred": 10298.187037309928,
+    "inmigracion_pred_z": -0.8260256032109833,
+    "inmigracion_pred": 6343.080838089398
+  },
+  {
+    "comuna": "Santiago",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": 1.6047728660849168,
+    "emigracion_pred": 55009.889713624594,
+    "inmigracion_pred_z": 1.7265837380320137,
+    "inmigracion_pred": 52898.655879812424
+  },
+  {
+    "comuna": "Talagante",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.8277739178147339,
+    "emigracion_pred": 4076.212184328426,
+    "inmigracion_pred_z": -0.7817095913296997,
+    "inmigracion_pred": 7151.335114744332
+  },
+  {
+    "comuna": "Tiltil",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -2.2706179007251546,
+    "emigracion_pred": -26134.655963018304,
+    "inmigracion_pred_z": -2.519675529798729,
+    "inmigracion_pred": -24546.42699912197
+  },
+  {
+    "comuna": "Vitacura",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": -0.4254928971801624,
+    "emigracion_pred": 12499.3397133744,
+    "inmigracion_pred_z": -0.40857152164026017,
+    "inmigracion_pred": 13956.785962107926
+  },
+  {
+    "comuna": "Ñuñoa",
+    "año": 2023,
+    "modelo": "gradient_boosting",
+    "emigracion_pred_z": 0.5886755548520985,
+    "emigracion_pred": 33734.421084918366,
+    "inmigracion_pred_z": 0.7421558033558712,
+    "inmigracion_pred": 34944.24043304207
+  },
+  {
+    "comuna": "Alhué",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -2.5988866244372013,
+    "emigracion_pred": -33008.08319869064,
+    "inmigracion_pred_z": -2.6020381737805374,
+    "inmigracion_pred": -26048.591937005724
+  },
+  {
+    "comuna": "Buin",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -0.7446371583879774,
+    "emigracion_pred": 5816.964273250127,
+    "inmigracion_pred_z": -0.7071994695515561,
+    "inmigracion_pred": 8510.282412226648
+  },
+  {
+    "comuna": "Calera de Tango",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -1.7073341788771264,
+    "emigracion_pred": -14340.386830765194,
+    "inmigracion_pred_z": -1.7570557760912269,
+    "inmigracion_pred": -10637.44351372066
+  },
+  {
+    "comuna": "Cerrillos",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -0.6522839108144689,
+    "emigracion_pred": 7750.695028944561,
+    "inmigracion_pred_z": -0.7882105082891652,
+    "inmigracion_pred": 7032.76862575741
+  },
+  {
+    "comuna": "Cerro Navia",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -0.06045437195260616,
+    "emigracion_pred": 20142.66836496312,
+    "inmigracion_pred_z": -0.27832984140703687,
+    "inmigracion_pred": 16332.18913081423
+  },
+  {
+    "comuna": "Colina",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -0.39410887470622813,
+    "emigracion_pred": 13156.471444956955,
+    "inmigracion_pred_z": -0.2601582572276234,
+    "inmigracion_pred": 16663.610213242657
+  },
+  {
+    "comuna": "Conchalí",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -0.07649222282201383,
+    "emigracion_pred": 19806.861164932285,
+    "inmigracion_pred_z": -0.2971758167765658,
+    "inmigracion_pred": 15988.468214975488
+  },
+  {
+    "comuna": "Curacaví",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -1.7160842107021108,
+    "emigracion_pred": -14523.598640829696,
+    "inmigracion_pred_z": -1.6717706415379203,
+    "inmigracion_pred": -9081.976949570868
+  },
+  {
+    "comuna": "El Bosque",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": 0.0927548177529748,
+    "emigracion_pred": 23350.62617882227,
+    "inmigracion_pred_z": -0.09879130435418586,
+    "inmigracion_pred": 19606.68934500485
+  },
+  {
+    "comuna": "El Monte",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -1.5197683702523253,
+    "emigracion_pred": -10413.055823095085,
+    "inmigracion_pred_z": -1.540383556749512,
+    "inmigracion_pred": -6685.683405333748
+  },
+  {
+    "comuna": "Estación Central",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": 0.376733253260494,
+    "emigracion_pred": 29296.684916581242,
+    "inmigracion_pred_z": 0.18504009202949395,
+    "inmigracion_pred": 24783.327093694938
+  },
+  {
+    "comuna": "Huechuraba",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -0.5306676729285247,
+    "emigracion_pred": 10297.146461577886,
+    "inmigracion_pred_z": -0.5996866733716658,
+    "inmigracion_pred": 10471.146524735539
+  },
+  {
+    "comuna": "Independencia",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": 0.146153499046333,
+    "emigracion_pred": 24468.710004172353,
+    "inmigracion_pred_z": -0.1372890362108305,
+    "inmigracion_pred": 18904.551334526757
+  },
+  {
+    "comuna": "Isla de Maipo",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -1.5584681532683935,
+    "emigracion_pred": -11223.367995358516,
+    "inmigracion_pred_z": -1.5574029737975887,
+    "inmigracion_pred": -6996.090773490709
+  },
+  {
+    "comuna": "La Cisterna",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -0.3829596385823534,
+    "emigracion_pred": 13389.918793715056,
+    "inmigracion_pred_z": -0.601319193079061,
+    "inmigracion_pred": 10441.371935840665
+  },
+  {
+    "comuna": "La Florida",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": 0.7992687097137123,
+    "emigracion_pred": 38143.90825720744,
+    "inmigracion_pred_z": 0.7859670024509676,
+    "inmigracion_pred": 35743.287719355925
+  },
+  {
+    "comuna": "La Granja",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -0.20572190662093404,
+    "emigracion_pred": 17100.99623136041,
+    "inmigracion_pred_z": -0.43013150258393595,
+    "inmigracion_pred": 13563.56585807405
+  },
+  {
+    "comuna": "La Pintana",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": 0.039090616672932905,
+    "emigracion_pred": 22226.9827896101,
+    "inmigracion_pred_z": -0.06558291911574325,
+    "inmigracion_pred": 20212.35800178016
+  },
+  {
+    "comuna": "La Reina",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -0.5720145635181266,
+    "emigracion_pred": 9431.408048623789,
+    "inmigracion_pred_z": -0.7003802175101467,
+    "inmigracion_pred": 8634.654831857326
+  },
+  {
+    "comuna": "Lampa",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -0.6483873051200355,
+    "emigracion_pred": 7832.283781610162,
+    "inmigracion_pred_z": -0.5656552821880981,
+    "inmigracion_pred": 11091.825514043521
+  },
+  {
+    "comuna": "Las Condes",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": 0.5117704147365663,
+    "emigracion_pred": 32124.149236123594,
+    "inmigracion_pred_z": 0.5278112088619843,
+    "inmigracion_pred": 31034.93253679791
+  },
+  {
+    "comuna": "Lo Barnechea",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -0.7791023821052727,
+    "emigracion_pred": 5095.317066951551,
+    "inmigracion_pred_z": -0.6657388429799272,
+    "inmigracion_pred": 9266.45895692753
+  },
+  {
+    "comuna": "Lo Espejo",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -0.2938709318317,
+    "emigracion_pred": 15255.295234231235,
+    "inmigracion_pred_z": -0.5573850798611862,
+    "inmigracion_pred": 11242.660982213238
+  },
+  {
+    "comuna": "Lo Prado",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -0.28055022583391287,
+    "emigracion_pred": 15534.209723458933,
+    "inmigracion_pred_z": -0.5446621379689222,
+    "inmigracion_pred": 11474.70740876449
+  },
+  {
+    "comuna": "Macul",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -0.1210536197263946,
+    "emigracion_pred": 18873.816080165547,
+    "inmigracion_pred_z": -0.31835162994215704,
+    "inmigracion_pred": 15602.254726302705
+  },
+  {
+    "comuna": "Maipú",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": 1.1678292084145587,
+    "emigracion_pred": 45860.98145601006,
+    "inmigracion_pred_z": 1.2300830044132598,
+    "inmigracion_pred": 43843.2642894163
+  },
+  {
+    "comuna": "María Pinto",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -2.2260198103687334,
+    "emigracion_pred": -25200.84257547275,
+    "inmigracion_pred_z": -2.2264265763087185,
+    "inmigracion_pred": -19198.027837712143
+  },
+  {
+    "comuna": "Melipilla",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -0.6821504627516766,
+    "emigracion_pred": 7125.336727369357,
+    "inmigracion_pred_z": -0.5517834293471472,
+    "inmigracion_pred": 11344.826267221895
+  },
+  {
+    "comuna": "Padre Hurtado",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -0.9646390237908076,
+    "emigracion_pred": 1210.4736016472307,
+    "inmigracion_pred_z": -0.9945622285456567,
+    "inmigracion_pred": 3269.23817001142
+  },
+  {
+    "comuna": "Paine",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -1.108417198810049,
+    "emigracion_pred": -1800.0136994195564,
+    "inmigracion_pred_z": -1.0233981553304756,
+    "inmigracion_pred": 2743.316270550473
+  },
+  {
+    "comuna": "Pedro Aguirre Cerda",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -0.3424221970232316,
+    "emigracion_pred": 14238.708625795905,
+    "inmigracion_pred_z": -0.5621598370709587,
+    "inmigracion_pred": 11155.576929046949
+  },
+  {
+    "comuna": "Peñaflor",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -0.6949192354614615,
+    "emigracion_pred": 6857.978847163467,
+    "inmigracion_pred_z": -0.7313418723044499,
+    "inmigracion_pred": 8069.963000677943
+  },
+  {
+    "comuna": "Peñalolén",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": 0.34647086133476657,
+    "emigracion_pred": 28663.038352489606,
+    "inmigracion_pred_z": 0.3009181210023998,
+    "inmigracion_pred": 26896.75988044016
+  },
+  {
+    "comuna": "Pirque",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -1.7940113788915135,
+    "emigracion_pred": -16155.270139030981,
+    "inmigracion_pred_z": -1.768764916676974,
+    "inmigracion_pred": -10850.999800774123
+  },
+  {
+    "comuna": "Providencia",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": 0.03893800517696489,
+    "emigracion_pred": 22223.78734655661,
+    "inmigracion_pred_z": -0.15044277495452424,
+    "inmigracion_pred": 18664.647851738806
+  },
+  {
+    "comuna": "Pudahuel",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": 0.08683070906744862,
+    "emigracion_pred": 23226.58472423064,
+    "inmigracion_pred_z": 0.1485739505628259,
+    "inmigracion_pred": 24118.242092984703
+  },
+  {
+    "comuna": "Puente Alto",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": 1.4325988232134146,
+    "emigracion_pred": 51404.83790677964,
+    "inmigracion_pred_z": 1.4542442233975847,
+    "inmigracion_pred": 47931.611959094196
+  },
+  {
+    "comuna": "Quilicura",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": 0.3308394760452543,
+    "emigracion_pred": 28335.741898032167,
+    "inmigracion_pred_z": 0.292322951811922,
+    "inmigracion_pred": 26739.997528372318
+  },
+  {
+    "comuna": "Quinta Normal",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -0.09774171131636465,
+    "emigracion_pred": 19361.930526065527,
+    "inmigracion_pred_z": -0.29477601714157686,
+    "inmigracion_pred": 16032.236781589532
+  },
+  {
+    "comuna": "Recoleta",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": 0.2244592538102349,
+    "emigracion_pred": 26108.308505722594,
+    "inmigracion_pred_z": 0.044241320992878766,
+    "inmigracion_pred": 22215.379211945998
+  },
+  {
+    "comuna": "Renca",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -0.07640596202157922,
+    "emigracion_pred": 19808.667329492753,
+    "inmigracion_pred_z": -0.20576766900150528,
+    "inmigracion_pred": 17655.608898984145
+  },
+  {
+    "comuna": "San Bernardo",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": 0.4541806768573514,
+    "emigracion_pred": 30918.31132272722,
+    "inmigracion_pred_z": 0.5087327060724748,
+    "inmigracion_pred": 30686.970686956753
+  },
+  {
+    "comuna": "San Joaquín",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -0.3555203008584634,
+    "emigracion_pred": 13964.455073344412,
+    "inmigracion_pred_z": -0.5782711065993041,
+    "inmigracion_pred": 10861.732741679421
+  },
+  {
+    "comuna": "San José de Maipo",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -2.1993020379693147,
+    "emigracion_pred": -24641.414731083445,
+    "inmigracion_pred_z": -2.1435020135798624,
+    "inmigracion_pred": -17685.61438668034
+  },
+  {
+    "comuna": "San Miguel",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -0.021301145191810915,
+    "emigracion_pred": 20962.47493117797,
+    "inmigracion_pred_z": -0.25207250700228034,
+    "inmigracion_pred": 16811.081565518318
+  },
+  {
+    "comuna": "San Pedro",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -2.373348404157546,
+    "emigracion_pred": -28285.67002321224,
+    "inmigracion_pred_z": -2.3640210373019417,
+    "inmigracion_pred": -21707.534149781073
+  },
+  {
+    "comuna": "San Ramón",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -0.48127729278323994,
+    "emigracion_pred": 11331.30280834152,
+    "inmigracion_pred_z": -0.7364274792685862,
+    "inmigracion_pred": 7977.209537456552
+  },
+  {
+    "comuna": "Santiago",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": 1.4498329771959007,
+    "emigracion_pred": 51765.69379956003,
+    "inmigracion_pred_z": 1.2977473321671347,
+    "inmigracion_pred": 45077.35508329363
+  },
+  {
+    "comuna": "Talagante",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -0.9671922254919489,
+    "emigracion_pred": 1157.0136012172661,
+    "inmigracion_pred_z": -0.9687653914182076,
+    "inmigracion_pred": 3739.731859477135
+  },
+  {
+    "comuna": "Tiltil",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -2.0473023448024716,
+    "emigracion_pred": -21458.78185941436,
+    "inmigracion_pred_z": -2.0235829286322056,
+    "inmigracion_pred": -15498.47910200854
+  },
+  {
+    "comuna": "Vitacura",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": -0.6313998801395284,
+    "emigracion_pred": 8187.9735598035295,
+    "inmigracion_pred_z": -0.7403248217418074,
+    "inmigracion_pred": 7906.128147506382
+  },
+  {
+    "comuna": "Ñuñoa",
+    "año": 2023,
+    "modelo": "lineal",
+    "emigracion_pred_z": 0.5677964057506943,
+    "emigracion_pred": 33297.24476647889,
+    "inmigracion_pred_z": 0.3871328634730852,
+    "inmigracion_pred": 28469.181029240903
+  },
+  {
+    "comuna": "Alhué",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -2.080870592253451,
+    "emigracion_pred": -22161.647803127424,
+    "inmigracion_pred_z": -1.9875051570712123,
+    "inmigracion_pred": -14840.477356849973
+  },
+  {
+    "comuna": "Buin",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -0.4174023570775757,
+    "emigracion_pred": 12668.742811127931,
+    "inmigracion_pred_z": -0.2570668739272835,
+    "inmigracion_pred": 16719.99217694401
+  },
+  {
+    "comuna": "Calera de Tango",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -0.7650676822950531,
+    "emigracion_pred": 5389.181455947282,
+    "inmigracion_pred_z": -0.7531767510946108,
+    "inmigracion_pred": 7671.729192778745
+  },
+  {
+    "comuna": "Cerrillos",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -0.5311005726731146,
+    "emigracion_pred": 10288.082226456328,
+    "inmigracion_pred_z": -0.5787033662485694,
+    "inmigracion_pred": 10853.849006313523
+  },
+  {
+    "comuna": "Cerro Navia",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -0.2198343479577334,
+    "emigracion_pred": 16805.504057907805,
+    "inmigracion_pred_z": -0.4555381744322215,
+    "inmigracion_pred": 13100.188168945437
+  },
+  {
+    "comuna": "Colina",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -0.40577967971000317,
+    "emigracion_pred": 12912.103269798316,
+    "inmigracion_pred_z": -0.2260744245676948,
+    "inmigracion_pred": 17285.245652505033
+  },
+  {
+    "comuna": "Conchalí",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -0.2525166729027765,
+    "emigracion_pred": 16121.18792854239,
+    "inmigracion_pred_z": -0.49598225450923733,
+    "inmigracion_pred": 12362.551831650642
+  },
+  {
+    "comuna": "Curacaví",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -1.6741586594246975,
+    "emigracion_pred": -13645.743989426686,
+    "inmigracion_pred_z": -1.8068942911849526,
+    "inmigracion_pred": -11546.419553228588
+  },
+  {
+    "comuna": "El Bosque",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -0.029337615003111026,
+    "emigracion_pred": 20794.203979699505,
+    "inmigracion_pred_z": -0.21407578006403633,
+    "inmigracion_pred": 17504.08203516789
+  },
+  {
+    "comuna": "El Monte",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -1.4174871115723655,
+    "emigracion_pred": -8271.448236603337,
+    "inmigracion_pred_z": -1.4444569111462198,
+    "inmigracion_pred": -4936.132435771691
+  },
+  {
+    "comuna": "Estación Central",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": 0.3084688086389073,
+    "emigracion_pred": 27867.33554822154,
+    "inmigracion_pred_z": 0.07534900294060862,
+    "inmigracion_pred": 22782.734348469305
+  },
+  {
+    "comuna": "Huechuraba",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -0.3655691990666711,
+    "emigracion_pred": 13754.047058070373,
+    "inmigracion_pred_z": -0.2487611302420808,
+    "inmigracion_pred": 16871.475863525477
+  },
+  {
+    "comuna": "Independencia",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": 0.07040321143583025,
+    "emigracion_pred": 22882.618938034833,
+    "inmigracion_pred_z": -0.19768525035801054,
+    "inmigracion_pred": 17803.019488452806
+  },
+  {
+    "comuna": "Isla de Maipo",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -1.4071609212670808,
+    "emigracion_pred": -8055.234163929941,
+    "inmigracion_pred_z": -1.38384138348958,
+    "inmigracion_pred": -3830.600656616578
+  },
+  {
+    "comuna": "La Cisterna",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -0.3344011372114431,
+    "emigracion_pred": 14406.656916287524,
+    "inmigracion_pred_z": -0.3487535335027793,
+    "inmigracion_pred": 15047.77187624052
+  },
+  {
+    "comuna": "La Florida",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": 0.8722368697362627,
+    "emigracion_pred": 39671.74597736698,
+    "inmigracion_pred_z": 0.7361732415535671,
+    "inmigracion_pred": 34835.12792591895
+  },
+  {
+    "comuna": "La Granja",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -0.34571317587722145,
+    "emigracion_pred": 14169.800740112354,
+    "inmigracion_pred_z": -0.4733961675530432,
+    "inmigracion_pred": 12774.486493644765
+  },
+  {
+    "comuna": "La Pintana",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": 0.029062571194661827,
+    "emigracion_pred": 22017.011397479026,
+    "inmigracion_pred_z": -0.06963969879174542,
+    "inmigracion_pred": 20138.368728301328
+  },
+  {
+    "comuna": "La Reina",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -0.48319465209833873,
+    "emigracion_pred": 11291.156340569796,
+    "inmigracion_pred_z": -0.577491027777462,
+    "inmigracion_pred": 10875.960151076522
+  },
+  {
+    "comuna": "Lampa",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -0.39839518232766735,
+    "emigracion_pred": 13066.72295106293,
+    "inmigracion_pred_z": -0.23521381315072637,
+    "inmigracion_pred": 17118.557595645696
+  },
+  {
+    "comuna": "Las Condes",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": 0.5769102858998905,
+    "emigracion_pred": 33488.07498427049,
+    "inmigracion_pred_z": 0.6015837790083811,
+    "inmigracion_pred": 32380.428053867086
+  },
+  {
+    "comuna": "Lo Barnechea",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -0.4328398638439523,
+    "emigracion_pred": 12345.50586592335,
+    "inmigracion_pred_z": -0.2849365943039368,
+    "inmigracion_pred": 16211.69236097793
+  },
+  {
+    "comuna": "Lo Espejo",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -0.46518605639643823,
+    "emigracion_pred": 11668.227816566497,
+    "inmigracion_pred_z": -0.7117918103600377,
+    "inmigracion_pred": 8426.525346986762
+  },
+  {
+    "comuna": "Lo Prado",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -0.5083042728315065,
+    "emigracion_pred": 10765.400645439513,
+    "inmigracion_pred_z": -0.7203476012273582,
+    "inmigracion_pred": 8270.481193528143
+  },
+  {
+    "comuna": "Macul",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -0.11655142750418471,
+    "emigracion_pred": 18968.084855729787,
+    "inmigracion_pred_z": -0.21586236657390587,
+    "inmigracion_pred": 17471.4975103897
+  },
+  {
+    "comuna": "Maipú",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": 1.0001957738218836,
+    "emigracion_pred": 42351.00279612012,
+    "inmigracion_pred_z": 1.001236839792101,
+    "inmigracion_pred": 39669.470588245065
+  },
+  {
+    "comuna": "María Pinto",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -1.9453834811507076,
+    "emigracion_pred": -19324.76225093253,
+    "inmigracion_pred_z": -2.043189934256907,
+    "inmigracion_pred": -15856.080011382226
+  },
+  {
+    "comuna": "Melipilla",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -0.556824877670981,
+    "emigracion_pred": 9749.456016223226,
+    "inmigracion_pred_z": -0.6374754367944384,
+    "inmigracion_pred": 9781.9389821485
+  },
+  {
+    "comuna": "Padre Hurtado",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -0.597836123539271,
+    "emigracion_pred": 8890.745472214083,
+    "inmigracion_pred_z": -0.5768529722999337,
+    "inmigracion_pred": 10887.597278303514
+  },
+  {
+    "comuna": "Paine",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -0.9057031002590274,
+    "emigracion_pred": 2444.4985108194523,
+    "inmigracion_pred_z": -0.7705933698074086,
+    "inmigracion_pred": 7354.077491691614
+  },
+  {
+    "comuna": "Pedro Aguirre Cerda",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -0.3968401750205756,
+    "emigracion_pred": 13099.282341599353,
+    "inmigracion_pred_z": -0.37653265936220665,
+    "inmigracion_pred": 14541.124361618375
+  },
+  {
+    "comuna": "Peñaflor",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -0.4253036767741073,
+    "emigracion_pred": 12503.301689032078,
+    "inmigracion_pred_z": -0.32629681970852814,
+    "inmigracion_pred": 15457.34697547198
+  },
+  {
+    "comuna": "Peñalolén",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": 0.07309220630730635,
+    "emigracion_pred": 22938.922232412642,
+    "inmigracion_pred_z": -0.04887576780999997,
+    "inmigracion_pred": 20517.070134491074
+  },
+  {
+    "comuna": "Pirque",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -1.0668842298665757,
+    "emigracion_pred": -930.3791004048289,
+    "inmigracion_pred_z": -0.855527993968018,
+    "inmigracion_pred": 5805.003685190421
+  },
+  {
+    "comuna": "Providencia",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": 0.24536276800241844,
+    "emigracion_pred": 26545.994990578976,
+    "inmigracion_pred_z": 0.06844152361709638,
+    "inmigracion_pred": 22656.752802135885
+  },
+  {
+    "comuna": "Pudahuel",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": 0.28236772798671345,
+    "emigracion_pred": 27320.820252440146,
+    "inmigracion_pred_z": 0.22444790744279794,
+    "inmigracion_pred": 25502.063595227544
+  },
+  {
+    "comuna": "Puente Alto",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": 1.1041953991180427,
+    "emigracion_pred": 44528.590258388926,
+    "inmigracion_pred_z": 1.044734907736527,
+    "inmigracion_pred": 40462.806855427494
+  },
+  {
+    "comuna": "Quilicura",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": 0.0656611799271396,
+    "emigracion_pred": 22783.32830761571,
+    "inmigracion_pred_z": -0.037702428591913854,
+    "inmigracion_pred": 20720.854248272048
+  },
+  {
+    "comuna": "Quinta Normal",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -0.10275463606839887,
+    "emigracion_pred": 19256.967820111146,
+    "inmigracion_pred_z": -0.24308679704430866,
+    "inmigracion_pred": 16974.96676623916
+  },
+  {
+    "comuna": "Recoleta",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": 0.046641172244605664,
+    "emigracion_pred": 22385.079466393472,
+    "inmigracion_pred_z": -0.2033248489480394,
+    "inmigracion_pred": 17700.162090291193
+  },
+  {
+    "comuna": "Renca",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": 0.10987795913147108,
+    "emigracion_pred": 23709.15764347214,
+    "inmigracion_pred_z": -0.036675214444586685,
+    "inmigracion_pred": 20739.58901686634
+  },
+  {
+    "comuna": "San Bernardo",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": 0.38716391297549907,
+    "emigracion_pred": 29515.08641325881,
+    "inmigracion_pred_z": 0.41042170039724657,
+    "inmigracion_pred": 28893.932744099584
+  },
+  {
+    "comuna": "San Joaquín",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -0.412382431981202,
+    "emigracion_pred": 12773.852093207197,
+    "inmigracion_pred_z": -0.4058220134455982,
+    "inmigracion_pred": 14006.932662198778
+  },
+  {
+    "comuna": "San José de Maipo",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -1.940073450037186,
+    "emigracion_pred": -19213.578608259457,
+    "inmigracion_pred_z": -1.8891624269994391,
+    "inmigracion_pred": -13046.860810953098
+  },
+  {
+    "comuna": "San Miguel",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": 0.022035063967749475,
+    "emigracion_pred": 21869.86652474752,
+    "inmigracion_pred_z": -0.20166467515704098,
+    "inmigracion_pred": 17730.441046126827
+  },
+  {
+    "comuna": "San Pedro",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -2.1393989845215637,
+    "emigracion_pred": -23387.139652995655,
+    "inmigracion_pred_z": -2.1154472916618623,
+    "inmigracion_pred": -17173.9404339038
+  },
+  {
+    "comuna": "San Ramón",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -0.5194965719980505,
+    "emigracion_pred": 10531.051624761569,
+    "inmigracion_pred_z": -0.6794782657886058,
+    "inmigracion_pred": 9015.873519013274
+  },
+  {
+    "comuna": "Santiago",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": 1.7130290578560219,
+    "emigracion_pred": 57276.60293727726,
+    "inmigracion_pred_z": 1.925813521471379,
+    "inmigracion_pred": 56532.29342222657
+  },
+  {
+    "comuna": "Talagante",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -0.6762251274761334,
+    "emigracion_pred": 7249.403864813537,
+    "inmigracion_pred_z": -0.6926202657446978,
+    "inmigracion_pred": 8776.184133227265
+  },
+  {
+    "comuna": "Tiltil",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -2.1273147167157473,
+    "emigracion_pred": -23134.114221512522,
+    "inmigracion_pred_z": -2.2091116237200334,
+    "inmigracion_pred": -18882.23036664519
+  },
+  {
+    "comuna": "Vitacura",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": -0.44837309743686526,
+    "emigracion_pred": 12020.264552561914,
+    "inmigracion_pred_z": -0.5110318787311681,
+    "inmigracion_pred": 12088.070383003804
+  },
+  {
+    "comuna": "Ñuñoa",
+    "año": 2023,
+    "modelo": "random_forest",
+    "emigracion_pred_z": 0.512907539341052,
+    "emigracion_pred": 32147.95882461696,
+    "inmigracion_pred_z": 0.5394656899736774,
+    "inmigracion_pred": 31247.49192111152
+  }
+]
